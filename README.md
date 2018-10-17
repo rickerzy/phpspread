@@ -1,7 +1,7 @@
 Yii2 PHP Spread
 ==============
 
-Base on the project  [moonlandsoft/yii2-phpexcel]{https://github.com/moonlandsoft/yii2-phpexcel}   and merge the pull request ;
+Base on the project  [moonlandsoft/yii2-phpexcel](https://github.com/moonlandsoft/yii2-phpexcel)   and merge the pull request ;
 
 Exporting PHP to Excel or Importing Excel to PHP.
 Excel Widget for generate Excel File or for load Excel File.
